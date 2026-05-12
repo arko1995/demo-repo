@@ -10,3 +10,7 @@ just learned double dash is for subheaders, yay
 ## Added and switched to a new branch
 
 this text should only be visible in the readme branch
+
+## conflicting
+
+this the first conflicting file where i edit the same file (readme.md)
