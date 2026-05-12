@@ -7,6 +7,6 @@ this is an update
 
 just learned double dash is for subheaders, yay
 
-##Added and switched to a new branch
+## Added and switched to a new branch
 
 this text should only be visible in the readme branch
